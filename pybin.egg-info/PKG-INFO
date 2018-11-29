@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: pybin
+Version: 0.1.0
+Summary: Image merge/binning designed for monochromatic XRD data.
+Home-page: https://github.com/casimp/pybin
+Author: C. Simpson
+Author-email: c.a.simpson01@gmail.com
+License: LICENSE.txt
+Download-URL: https://github.com/casimp/pybin/tarball/v0.1.0
+Description: UNKNOWN
+Keywords: XRD,EDXRD,x-ray,diffraction,strain,synchrotron
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows

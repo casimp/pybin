@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pybin/__init__.py
+pybin/binned.py
+pybin/fix_links.py
+pybin/hdf5_tools.py
+pybin/image_gen.py
+pybin/plot_tools.py
+pybin/rolled.py
+pybin/test.py
+pybin.egg-info/PKG-INFO
+pybin.egg-info/SOURCES.txt
+pybin.egg-info/dependency_links.txt
+pybin.egg-info/top_level.txt

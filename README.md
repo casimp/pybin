@@ -29,7 +29,7 @@ Installation
 
 You can install from the distribution using the setup.py script. The source is stored in the GitHub repo, which can be browsed at:
 
-https://github.com/casimp/pyxe
+https://github.com/casimp/pybin
 
 Simply download and unpack, then navigate to the download directory and run the following from the command-line:
 
